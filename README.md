@@ -1,0 +1,2 @@
+# analysis-of-the-DBLP-Digital-Bibliography-Library-Project-graph
+This project implements a Python framework for processing and analyzing bibliographic networks derived from the DBLP dataset. The script builds and queries large-scale bipartite networks connecting authors and publications across different files (books, articles, proceedings, phdthesis, mastersthesis, incollection  and inproceedings).
