@@ -19,7 +19,7 @@ Analyzing massive network datasets requires balancing computational efficiency w
 * **Custom K-Min Sketch Implementation:** 
   * Cardinality estimation with varying sketch sizes ($k = 64, 128, 256, 512$) to see the difference in the accuracy of the estimate.
   * Jaccard similarity estimation between author sets across files.
-* **Randomized Distance Approximation:** Implements $\alpha$-$\epsilon$ bounded BFS sampling to estimate average distances with statistical guarantees.
+* **Randomized Distance Approximation:** Implements a classical BFS sampling to estimate average distances with statistical guarantees.
 
 ---
 
