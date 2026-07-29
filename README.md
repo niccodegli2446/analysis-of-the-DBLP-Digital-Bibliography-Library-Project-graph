@@ -27,6 +27,6 @@ Analyzing massive network datasets requires balancing computational efficiency w
 
 ```text
 .
-├── script.py                # Main analysis script
+├── progetto.py              # Main analysis script
 ├── out-dblp_*.csv           # DBLP publication datasets (Books, Articles, etc.)
 └── README.md                # Project documentation
