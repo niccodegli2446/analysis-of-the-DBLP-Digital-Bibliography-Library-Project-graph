@@ -23,7 +23,7 @@ Analyzing massive network datasets requires balancing computational efficiency w
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
