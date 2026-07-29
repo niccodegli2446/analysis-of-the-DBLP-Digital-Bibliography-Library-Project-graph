@@ -16,8 +16,8 @@ Analyzing massive network datasets requires balancing computational efficiency w
 ## Key Features & Engineering Highlights
 
 * **Dynamic Graph Filtering:** Filters nodes and edges by publication year to analyze temporal network evolution.
-* **Custom K-Min Sketch Implementation:** Built from scratch to support:
-  * Cardinality estimation with varying sketch sizes ($k = 64, 128, 256, 512$).
+* **Custom K-Min Sketch Implementation:** 
+  * Cardinality estimation with varying sketch sizes ($k = 64, 128, 256, 512$) to see the difference in the accuracy of the estimate.
   * Jaccard similarity estimation between author sets across files.
 * **Randomized Distance Approximation:** Implements $\alpha$-$\epsilon$ bounded BFS sampling to estimate average distances with statistical guarantees.
 
